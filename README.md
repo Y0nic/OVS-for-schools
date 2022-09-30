@@ -8,7 +8,7 @@ Sort, Search, and Filter Students Accounts
 Reset, Remove and Edit Students Accounts
 Print Results of the Poll
 # Imported Script Used
-Bootstrap     URL = https://getbootstrap.com/
-Jquery        URL = https://jquery.com/
-Font Awesome  URL = https://fontawesome.com/
-DataTables    URL = https://www.datatables.net/
+[Bootstrap](https://getbootstrap.com/) <br />
+[Jquery](https://jquery.com/) <br />
+[Font Awesome](https://fontawesome.com/) <br />
+[DataTables](https://www.datatables.net/)
