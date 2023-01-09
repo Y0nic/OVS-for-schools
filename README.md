@@ -1,5 +1,7 @@
 # Online Voting System for Schools Using PHP
-This Projec is my First dynamic working website as a ICT Student.
+
+This Projec is used for online voting. To vote online and get a result instantly without counting the ballots. Less errors in counting and get the result faster than the traditional voting system. I can be access anywhere, no more long lines and less crowd in the polling stations and more faster than the paper ballot way of voting.
+
 # Features
 Can Add More Voting Category but One at a Time
 
